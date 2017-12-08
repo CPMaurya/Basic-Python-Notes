@@ -1,2 +1,3 @@
-# Basic-Python-Notes
-This file only be some basic python example 
+# Basic-Python-Codes
+This file only be some basic python example.
+Just open file click "basic.ipynb".
